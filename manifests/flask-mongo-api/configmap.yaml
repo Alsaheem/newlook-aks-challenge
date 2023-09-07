@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: flask-mongo-api
+data:
+  REDIS_CLIENT: redis.database.local

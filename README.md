@@ -1,13 +1,13 @@
-## Lorien AKS Challenge
+## Newlook AKS Challenge
 
 Write a hello world API in any language of your choice. - Done
 Create a docker image. - Done
 Create terraform for AKS and deploy the API using GitHub Actions
-Test the API
+Test the API - Done
  
 Notes: Submit code as a GitHub repository - Done
 Please follow all the best practices for creating the terraform for your API. - Done
-Submit the code within 3 days from the date you were given this test. - Submitted in less than 3 hours
+Submit the code within 3 days from the date you were given this test. - Done (Submitted in less than a day)
 
 ### API Structure
 The url of the API is http://20.76.7.0/ (please note that this is a HTTP url , not https)
@@ -90,7 +90,7 @@ The docker registry can be reached via the link below
 https://hub.docker.com/repository/docker/alsaheem/flask-mongo-api/general
 
 
-- CiCd pipeline can be seen here https://github.com/Alsaheem/lorien-aks-challenge/actions
+- CiCd pipeline can be seen here https://github.com/Alsaheem/newlook-aks-challenge/actions
 
 ![Screenshot](screenshots/cicd.png)
 
